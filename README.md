@@ -22,10 +22,6 @@
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code)
 
 
-## 🏆 GitHub Trophies
-
-<img src="https://github-profile-trophy.vercel.app/?username=ninnauQ3&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies" />
-
 ## 🎮 Let's Connect and Play
 
 <a href="https://www.facebook.com/quan.thaihoang.39/">
