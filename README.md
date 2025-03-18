@@ -1,72 +1,88 @@
 <div align="center">
   
-  # 👾 [NinWeb - ninnauQ3]
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Code%20Craftsman&fontSize=60&fontAlignY=35&animation=fadeIn" />
-</div>
-
-<p align="center">
-  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-</p>
-
-<img align="right" width="38%" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHlxeGd6eGlmODY1MWNtaXpvbGI3eXQzYWIwcDZ1MXI3MTFwOWk2dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif"/>
-
-### 💫 _About Me_
-
-🚀 Building the future, one commit at a time  
-🔥 Passionate about clean, efficient, and scalable solutions  
-⚡ Turning caffeine into code since 20XX  
-🌱 Currently exploring AI and machine learning  
-🧠 Problem solver and continuous learner
-
-<p align="center">
-  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-</p>
-
-## 🔧 Technologies & Tools
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,python,aws,docker,graphql,tailwind,mongodb,postgres&perline=6" />
-</div>
-
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=ninnauQ3&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=ninnauQ3&theme=radical&hide_border=true&background=0D1117" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ninnauQ3&theme=redical&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" />
-</div>
-
-
-<p align="center">
-  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-</p>
-
-## 📫 Connect With Me
-
-<div align="center">
-  <a href="https://github.com/ninnauQ3">
-    <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/thaihoang-quan-3a725334b/">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://x.com/ThaiQuan_Nin">
-    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/>
-  </a>
-  <a href="mailto:thq11304@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</div>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=ninnauQ3&style=for-the-badge&color=ff6e96" alt="Profile Views" />
+  # 👋 Hello World, I'm [YOUR NAME]!
   
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ninnauQ3/ninnauQ3/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ninnauQ3/ninnauQ3/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ninnauQ3/ninnauQ3/output/github-contribution-grid-snake.svg">
-  </picture>
+  <a href="#">
+    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHk2NWx3ZmpxcjRqdmllYXZrOXYzZGQ1bWVzY2Z0dGh4dmFibWFpbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/du3J3cXyzhj75IOgvA/giphy.gif" width="200">
+  </a>
+  
+  ### *Code is poetry written for machines but read by humans*
+  
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDh1ZnE2emF3ZHlkc3V3Y21vcXcwbmg3OXRjcWVpeDNndDdwb2ZydSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xuXzcHMkuwvf2/giphy.gif" width="400">
+
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer" />
+## 🎮 When I'm Not Coding, I'm...
+
+- 🎮 Grinding achievements in [your favorite game]
+- 📺 Watching [your favorite show]
+- 🍕 Debating whether pineapple belongs on pizza (it does/doesn't!)
+- 🎵 Listening to [your music taste]
+- 🧩 Solving puzzles and riddles
+- 💤 Dreaming about code (yes, it happens)
+
+## 💬 Programmer Jokes
+
+<img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
+
+## 🎲 Random Fun Facts About Me
+
+- ⚡ My code works on the first try 0.01% of the time!
+- 🌱 I have [number] plants but somehow keep killing my cacti
+- 🧠 I can recite [something interesting] from memory
+- 🌮 I believe tacos fix everything
+- 💻 My first computer was [your first computer]
+- 🎬 Favorite movie quote: "[your favorite quote]"
+
+## 🎨 My Coding Mood Board
+
+<div align="center">
+  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="240" />
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="240" />
+  <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="240" />
+</div>
+
+## 🍪 Cookie Jar
+
+<div align="center">
+  
+  **Take a cookie and continue scrolling!** 🍪
+  
+  [̲̅$̲̅(̲̅ ͡° ͜ʖ ͡°̲̅)̲̅$̲̅]
+  
+</div>
+
+## 📬 Get in Touch If...
+
+- 🎮 You want to play [game] together
+- 🍕 You know the best pizza place in town
+- 🎭 You have great meme recommendations
+- 🧩 You have a puzzle that will break my brain
+- 🧪 You want to collaborate on something fun!
+
+<div align="center">
+  <a href="https://github.com/yourusername">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://twitter.com/yourusername">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
+  </a>
+  <a href="mailto:your.email@example.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</div>
+
+<div align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmd2OXM0NXVnNWNrenEyMTV5enR0N3A3ZG1jcWV0ZDZremR4MTFocCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LmNwrBhejkK9EFP504/giphy.gif" width="200">
+  
+  <br>
+  
+  **Visitors Count**<br>
+  <img src="https://profile-counter.glitch.me/yourusername/count.svg" />
+  
+  <br>
+  
+  <h3>Thanks for visiting! Here's a duck for your troubles</h3>
+  
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXQ0dHlxYno3NDhscHJib25nY25jN3h6dTQ4cHlqOTYxYmdkb2VsYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WQOIEQRgiK722l3PQT/giphy.gif" width="150">
+</div>
