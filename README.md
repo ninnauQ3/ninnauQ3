@@ -2,9 +2,7 @@
   
   # 👾 [NinWeb - ninnauQ3]
   
-  <a href="https://your-portfolio-site.com">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=40&duration=3000&pause=1000&color=F70000&center=true&vCenter=true&random=false&width=500&height=70&lines=FULL+STACK+DEVELOPER;CODE+ARCHITECT" alt="Typing SVG" />
-  </a>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=40&duration=3000&pause=1000&color=F70000&center=true&vCenter=true&random=false&width=500&height=70&lines=HAFL+STACK+DEVELOPER;CODE+ARCHITECT" alt="Typing SVG" />
   
   <br>
   
