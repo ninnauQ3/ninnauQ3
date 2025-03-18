@@ -1,38 +1,89 @@
 <div align="center">
   
-  # 👋 Hello, I'm [ninnauQ3]
+  # 👾 [YOUR NAME]
   
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Full+Stack+Developer;Open+Source+Contributor;Always+learning+new+things)](https://git.io/typing-svg)
-
-  <img src="https://github-readme-stats.vercel.app/api?username=ninnauQ3&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <a href="https://your-portfolio-site.com">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=40&duration=3000&pause=1000&color=F70000&center=true&vCenter=true&random=false&width=500&height=70&lines=FULL+STACK+DEVELOPER;DESIGN+ENTHUSIAST;CODE+ARCHITECT" alt="Typing SVG" />
+  </a>
   
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ninnauQ3&theme=radical" alt="GitHub Streak" />
+  <br>
   
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Code%20Craftsman&fontSize=60&fontAlignY=35&animation=fadeIn" />
 </div>
 
-## 🚀 Technologies & Tools
+<p align="center">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+</p>
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=Node.js)
-![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code)
+<img align="right" width="38%" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHlxeGd6eGlmODY1MWNtaXpvbGI3eXQzYWIwcDZ1MXI3MTFwOWk2dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
+### 💫 _About Me_
 
-## 🎮 Let's Connect and Play
+🚀 Building the future, one commit at a time  
+🔥 Passionate about clean, efficient, and scalable solutions  
+⚡ Turning caffeine into code since 20XX  
+🌱 Currently exploring AI and machine learning  
+🧠 Problem solver and continuous learner
 
-<a href="https://www.facebook.com/quan.thaihoang.39/">
-  <img height="32" width="32" src="https://cdn.simpleicons.org/facebook/0A66C2" />
-</a>
-<a href="https://www.linkedin.com/in/thaihoang-quan-3a725334b/">
-  <img height="32" width="32" src="https://cdn.simpleicons.org/linkedin/0A66C2" />
-</a>
+<p align="center">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+</p>
+
+## 🔧 Technologies & Tools
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=ninnauQ3&color=blueviolet" alt="Profile Views" />
-  
- ![Snake animation](https://github.com/ninnauQ3/ninnauQ3/blob/output/github-contribution-grid-snake.svg)
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,python,aws,docker,graphql,tailwind,mongodb,postgres&perline=6" />
 </div>
+
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical&hide_border=true&background=0D1117" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=redical&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" />
+</div>
+
+## 🔥 Featured Projects
+
+<div align="center">
+  <a href="https://github.com/yourusername/project1">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=project1&theme=radical&bg_color=0D1117&hide_border=true" />
+  </a>
+  <a href="https://github.com/yourusername/project2">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=project2&theme=radical&bg_color=0D1117&hide_border=true" />
+  </a>
+</div>
+
+<p align="center">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+</p>
+
+## 📫 Connect With Me
+
+<div align="center">
+  <a href="https://github.com/yourusername">
+    <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://linkedin.com/in/yourusername">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://twitter.com/yourusername">
+    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/>
+  </a>
+  <a href="mailto:your.email@example.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</div>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=yourusername&style=for-the-badge&color=ff6e96" alt="Profile Views" />
+  
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/yourusername/yourusername/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/yourusername/yourusername/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/yourusername/yourusername/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer" />
