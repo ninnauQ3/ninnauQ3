@@ -38,8 +38,9 @@
 
 <div align="center">
   <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="240" />
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="240" />
   <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="240" />
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="240" />
+  
 </div>
 
 ## 🍪 Cookie Jar
