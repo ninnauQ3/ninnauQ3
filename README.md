@@ -8,7 +8,7 @@
   
   ### *Code is poetry written for machines but read by humans*
   
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDh1ZnE2emF3ZHlkc3V3Y21vcXcwbmg3OXRjcWVpeDNndDdwb2ZydSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xuXzcHMkuwvf2/giphy.gif" width="400">
+
 
 </div>
 
@@ -23,7 +23,7 @@
 
 ## 💬 Programmer Jokes
 
-<img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
+<img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" width="100%"/>
 
 ## 🎲 Random Fun Facts About Me
 
@@ -61,13 +61,13 @@
 - 🧪 You want to collaborate on something fun!
 
 <div align="center">
-  <a href="https://github.com/yourusername">
+  <a href="https://github.com/ninnauQ3">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-  <a href="https://twitter.com/yourusername">
+  <a href="https://x.com/ThaiQuan_Nin">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
   </a>
-  <a href="mailto:your.email@example.com">
+  <a href="mailto:thq11304@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </div>
@@ -78,7 +78,7 @@
   <br>
   
   **Visitors Count**<br>
-  <img src="https://profile-counter.glitch.me/yourusername/count.svg" />
+  <img src="https://profile-counter.glitch.me/ninnauQ3/count.svg" />
   
   <br>
   
