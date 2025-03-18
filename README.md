@@ -28,17 +28,11 @@
 
 ## 🎮 Let's Connect and Play
 
-<a href="https://github.com/ninnauQ3">
-  <img height="32" width="32" src="https://cdn.simpleicons.org/github/white" />
+<a href="https://www.facebook.com/quan.thaihoang.39/">
+  <img height="32" width="32" src="https://cdn.simpleicons.org/facebook/white" />
 </a>
-<a href="https://twitter.com/ninnauQ3">
-  <img height="32" width="32" src="https://cdn.simpleicons.org/twitter/1DA1F2" />
-</a>
-<a href="https://linkedin.com/in/ninnauQ3">
+<a href="https://www.linkedin.com/in/thaihoang-quan-3a725334b/">
   <img height="32" width="32" src="https://cdn.simpleicons.org/linkedin/0A66C2" />
-</a>
-<a href="https://dev.to/ninnauQ3">
-  <img height="32" width="32" src="https://cdn.simpleicons.org/devdotto/black" />
 </a>
 
 <div align="center">
