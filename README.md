@@ -21,16 +21,6 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code)
 
-## 🔥 Featured Projects
-
-<div align="center">
-  <a href="https://github.com/yourusername/project1">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ninnauQ3&repo=project1&theme=radical" />
-  </a>
-  <a href="https://github.com/yourusername/project2">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ninnauQ3&repo=project2&theme=radical" />
-  </a>
-</div>
 
 ## 🏆 GitHub Trophies
 
@@ -54,5 +44,5 @@
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=ninnauQ3&color=blueviolet" alt="Profile Views" />
   
- ![Snake animation](https://github.com/yourusername/yourusername/blob/output/github-contribution-grid-snake.svg)
+ ![Snake animation](https://github.com/ninnauQ3/ninnauQ3/blob/output/github-contribution-grid-snake.svg)
 </div>
