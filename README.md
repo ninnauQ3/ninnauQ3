@@ -29,7 +29,7 @@
 ## 🎮 Let's Connect and Play
 
 <a href="https://www.facebook.com/quan.thaihoang.39/">
-  <img height="32" width="32" src="https://cdn.simpleicons.org/facebook/white" />
+  <img height="32" width="32" src="https://cdn.simpleicons.org/facebook/0A66C2" />
 </a>
 <a href="https://www.linkedin.com/in/thaihoang-quan-3a725334b/">
   <img height="32" width="32" src="https://cdn.simpleicons.org/linkedin/0A66C2" />
