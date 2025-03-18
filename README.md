@@ -54,5 +54,5 @@
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=ninnauQ3&color=blueviolet" alt="Profile Views" />
   
-  ![Snake animation](https://github.com/ninnauQ3/ninnauQ3/blob/output/github-contribution-grid-snake.svg)
+ ![Snake animation](https://github.com/yourusername/yourusername/blob/output/github-contribution-grid-snake.svg)
 </div>
