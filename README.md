@@ -1,9 +1,9 @@
 <div align="center">
   
   # 👾 [NinWeb - ninnauQ3]
-  
+    <a href="https://your-portfolio-site.com">
     <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=40&duration=3000&pause=1000&color=F70000&center=true&vCenter=true&random=false&width=500&height=70&lines=HAFL+STACK+DEVELOPER;CODE+ARCHITECT" alt="Typing SVG" />
-  
+   </a>
   <br>
   
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Code%20Craftsman&fontSize=60&fontAlignY=35&animation=fadeIn" />
