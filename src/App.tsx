@@ -264,7 +264,7 @@ const App: React.FC = () => {
       {/* About Section */}
       <motion.section
         id="about"
-        className="about "
+        className="about"
         ref={(el) => (sectionRefs.current["about"] = el)}
         initial="hidden"
         whileInView="visible"
@@ -273,7 +273,7 @@ const App: React.FC = () => {
       >
         <motion.h2 variants={slideUp}>About Me</motion.h2>
 
-        <div className="about-content">
+        <div className="about-content container mx-auto">
           <motion.div className="about-image" variants={slideUp}>
             {/* Replace with your image */}
             <div className="image-placeholder">Your Image</div>
@@ -399,11 +399,10 @@ const App: React.FC = () => {
         variants={fadeIn}
       >
         <motion.h2 variants={slideUp}>My Projects</motion.h2>
-
-        <motion.div className="projects-grid" variants={staggerContainer}>
+        <motion.div className="projects-grid px-10" variants={staggerContainer}>
           {projects.map((project, index) => (
             <motion.div
-              className="project-card"
+              className="project-card "
               key={index}
               variants={slideUp}
               whileHover={{
@@ -441,7 +440,6 @@ const App: React.FC = () => {
             </motion.div>
           ))}
         </motion.div>
-
         <motion.div className="more-projects" variants={slideUp}>
           <motion.a
             href="#"
@@ -466,7 +464,7 @@ const App: React.FC = () => {
       >
         <motion.h2 variants={slideUp}>Get In Touch</motion.h2>
 
-        <div className="contact-content">
+        <div className="contact-content container mx-auto text">
           <motion.div className="contact-info" variants={slideUp}>
             <h3>Contact Information</h3>
 
